@@ -1,4 +1,4 @@
-# Intelligent-Software-Testing
+# Intelligent-Software-Hardware-Testing
 
 ## Review
 
