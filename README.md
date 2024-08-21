@@ -1,40 +1,42 @@
 # Intelligent-Software-Hardware-Testing
 
-## Review
+## Software-Testing
+
+### Review
 
 **Artificial Intelligence For Software Testing-Perspectives And Practices.**<br>
 *N Jha, R Popli.*<br>
 2021 Fourth International Conference on Computational Intelligence and Communication Technologies (CCICT), 2021. 
 
-## Test Data Generation (TDG)
+### Test Data Generation (TDG)
 
-### Test Case Generation
+#### Test Case Generation
 
 **Automated Test Case Generation as a Many-Objective Optimisation Problem with Dynamic Selection of the Targets.**<br>
 *A Panichella, FM Kifetew, and et al.*<br>
 IEEE Transactions on Software Engineering, 2020. 
 
-### Test Input Generation
+#### Test Input Generation
  
 **An improved crow search algorithm for test data generation using search-based mutation testing.**<br>
 *N Jha, R Popli.*<br>
 Neural Processing Letters, 2020.
 
-### Test Model Generation
+#### Test Model Generation
  
 **AMOGA: A static-dynamic model generation strategy for mobile apps testing.**<br>
 *IA Salihu, R Ibrahim, BS Ahmed, KZ Zamli, et al.*<br>
 IEEE Access, 2019. 
 
-## Intellgent Exploration Test (IET)
+### Intellgent Exploration Test (IET)
 
-### Search-based Software Testing (SBST)
+#### Search-based Software Testing (SBST)
 
 **An extensive evaluation of search-based software testing a review.**<br>
 *N Jha, R Popli.*<br>
 Soft Computing, 2019.
 
-### Exploration Test （ET）
+#### Exploration Test （ET）
 
 **Humanoid A Deep Learning-based Approach to Automated Black-box Android App Testing.**<br>
 *Y Li, Z Yang, Y Guo, X Chen.*<br>
@@ -60,9 +62,9 @@ ArXiv, 2021.
 *Y Zheng, Y Liu, X Xie, Y Liu, L Ma, and et al.*<br>
 ICSE, 2021.
 
-## Test Data Analysis (TDA)
+### Test Data Analysis (TDA)
 
-### Test Case Selection
+#### Test Case Selection
 
 **Reinforcement learning for automatic test case prioritization and selection in continuous integration.**<br>
 *YH Spieker, A Gotlieb, D Marijan, and et al.*<br>
@@ -76,13 +78,13 @@ ArXiv, 2021.
 *Y Huang, T Shu, Z Ding.*<br>
 IEEE Access, 2021.
 
-### PerfTest
+#### PerfTest
 
-### TestBot
+#### TestBot
 
-# Intelligent-Hardware-Testing-Resources
+## Intelligent Hardware Testing
 
-## AI-Chip-Testing
+### AI-Chip-Testing
 
 **Mlperf training benchmark.**<br>
 *P Mattson, C Cheng, G Diamos, et al.*<br>
@@ -104,7 +106,7 @@ arXiv, 2021.
 MLSys, 2022.
 [[Paper](https://proceedings.mlsys.org/paper_files/paper/2022/file/a2b2702ea7e682c5ea2c20e8f71efb0c-Paper.pdf)]
 
-## AI-Hardware-Testing
+### AI-Hardware-Testing
 
 **Benchmarking tinyml systems: Challenges and direction.**<br>
 *CR Banbury, VJ Reddi, M Lam, W Fu, A Fazel, et al.*<br>
