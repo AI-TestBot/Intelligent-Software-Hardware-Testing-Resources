@@ -6,7 +6,15 @@
 
 **Artificial Intelligence For Software Testing-Perspectives And Practices.**<br>
 *N Jha, R Popli.*<br>
-2021 Fourth International Conference on Computational Intelligence and Communication Technologies (CCICT), 2021. 
+2021 Fourth International Conference on Computational Intelligence and Communication Technologies (CCICT), 2021.
+
+**Are We Testing or Being Tested? Exploring the Practical Applications of Large Language Models in Software Testing.**<br>
+*R Santos, I Santos, C Magalhaes, RS Santos.*<br>
+arxiv:2312.04860, 2023. 
+
+**Software testing with large language models: Survey, landscape, and vision.**<br>
+*J Wang, Y Huang, C Chen, Z Liu, et al.*<br>
+ IEEE Transactions on Software Engineering , 2024. 
 
 ### Test Data Generation (TDG)
 
@@ -14,7 +22,15 @@
 
 **Automated Test Case Generation as a Many-Objective Optimisation Problem with Dynamic Selection of the Targets.**<br>
 *A Panichella, FM Kifetew, and et al.*<br>
-IEEE Transactions on Software Engineering, 2020. 
+IEEE Transactions on Software Engineering, 2020.
+
+**An empirical evaluation of using large language models for automated unit test generation.**<br>
+*M Schäfer, S Nadi, A Eghbali, et al.*<br>
+IEEE Transactions on Software Engineering, 2024. 
+
+**Effective test generation using pre-trained large language models and mutation testing.**<br>
+*AM Dakhel, A Nikanjam, V Majdinasab, F Khomh, MC Desmarais.*<br>
+Information and Software Technology, 2024. 
 
 #### Test Input Generation
  
@@ -64,7 +80,7 @@ ICSE, 2021.
 
 ### Test Data Analysis (TDA)
 
-#### Test Case Selection
+#### Test Case Selection & Prioritization (TCSP)
 
 **Reinforcement learning for automatic test case prioritization and selection in continuous integration.**<br>
 *YH Spieker, A Gotlieb, D Marijan, and et al.*<br>
@@ -78,13 +94,21 @@ ArXiv, 2021.
 *Y Huang, T Shu, Z Ding.*<br>
 IEEE Access, 2021.
 
+#### TestDataBot
+
+**A survey on automated log analysis for reliability engineering.**<br>
+*S He, P He, Z Chen, T Yang, Y Su, MR Lyu.*<br>
+ACM computing surveys (CSUR), 2021.
+
 #### PerfTest
 
-#### TestBot
+**Smicloud: A framework for comparing and ranking cloud services.**<br>
+*SK Garg, S Versteeg, R Buyya.*<br>
+2011 Fourth IEEE International Conference on Utility and Cloud Computing, 2011.
 
 ## Intelligent Hardware Testing
 
-### AI-Chip-Testing
+### Chip
 
 **Mlperf training benchmark.**<br>
 *P Mattson, C Cheng, G Diamos, et al.*<br>
@@ -106,7 +130,7 @@ arXiv, 2021.
 MLSys, 2022.
 [[Paper](https://proceedings.mlsys.org/paper_files/paper/2022/file/a2b2702ea7e682c5ea2c20e8f71efb0c-Paper.pdf)]
 
-### AI-Hardware-Testing
+### TinyML
 
 **Benchmarking tinyml systems: Challenges and direction.**<br>
 *CR Banbury, VJ Reddi, M Lam, W Fu, A Fazel, et al.*<br>
@@ -122,3 +146,17 @@ arXiv:2403.10549, 2024.
 *C Banbury, E Njor, M Stewart, P Warden, M Kudlur, N Jeffries, X Fafoutis, VJ Reddi.*<br>
 arXiv:2405.00892, 2024.
 [[ArXiv](https://arxiv.org/pdf/2405.00892)]
+
+### Robotic Arm
+
+**Benchmarking simulated robotic manipulation through a real world dataset.**<br>
+*J Collins, J McVicar, D Wedlock, R Brown, D Howard, J Leitner.*<br>
+IEEE Robotics and Automation Letters, 2019.
+
+**GRASPA 1.0: GRASPA is a robot arm gras** performance benchmark.**<br>
+*F Bottarel, G Vezzani, U Pattacini, L Natale.*<br>
+IEEE Robotics and Automation Letters, 2020.
+
+**ARMBench: An object-centric benchmark dataset for robotic manipulation.**<br>
+*C Mitash, F Wang, S Lu, V Terhuja, T Garaas, F Polido, M Nambi.*<br>
+2023 IEEE International Conference on Robotics and Automation (ICRA), 2023.
