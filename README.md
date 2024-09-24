@@ -106,7 +106,7 @@ ACM computing surveys (CSUR), 2021.
 *SK Garg, S Versteeg, R Buyya.*<br>
 2011 Fourth IEEE International Conference on Utility and Cloud Computing, 2011.
 
-## Intelligent Hardware Testing
+## Hardware Testing
 
 ### Chip
 
@@ -130,7 +130,21 @@ arXiv, 2021.
 MLSys, 2022.
 [[Paper](https://proceedings.mlsys.org/paper_files/paper/2022/file/a2b2702ea7e682c5ea2c20e8f71efb0c-Paper.pdf)]
 
-### TinyML
+### Robotic Arm
+
+**Benchmarking simulated robotic manipulation through a real world dataset.**<br>
+*J Collins, J McVicar, D Wedlock, R Brown, D Howard, J Leitner.*<br>
+IEEE Robotics and Automation Letters, 2019.
+
+**GRASPA 1.0: GRASPA is a robot arm graSping performance benchmark.**<br>
+*F Bottarel, G Vezzani, U Pattacini, L Natale.*<br>
+IEEE Robotics and Automation Letters, 2020.
+
+**ARMBench: An object-centric benchmark dataset for robotic manipulation.**<br>
+*C Mitash, F Wang, S Lu, V Terhuja, T Garaas, F Polido, M Nambi.*<br>
+2023 IEEE International Conference on Robotics and Automation (ICRA), 2023.
+
+## Embedded AI Systems Testing
 
 **Benchmarking tinyml systems: Challenges and direction.**<br>
 *CR Banbury, VJ Reddi, M Lam, W Fu, A Fazel, et al.*<br>
@@ -146,17 +160,3 @@ arXiv:2403.10549, 2024.
 *C Banbury, E Njor, M Stewart, P Warden, M Kudlur, N Jeffries, X Fafoutis, VJ Reddi.*<br>
 arXiv:2405.00892, 2024.
 [[ArXiv](https://arxiv.org/pdf/2405.00892)]
-
-### Robotic Arm
-
-**Benchmarking simulated robotic manipulation through a real world dataset.**<br>
-*J Collins, J McVicar, D Wedlock, R Brown, D Howard, J Leitner.*<br>
-IEEE Robotics and Automation Letters, 2019.
-
-**GRASPA 1.0: GRASPA is a robot arm graSping performance benchmark.**<br>
-*F Bottarel, G Vezzani, U Pattacini, L Natale.*<br>
-IEEE Robotics and Automation Letters, 2020.
-
-**ARMBench: An object-centric benchmark dataset for robotic manipulation.**<br>
-*C Mitash, F Wang, S Lu, V Terhuja, T Garaas, F Polido, M Nambi.*<br>
-2023 IEEE International Conference on Robotics and Automation (ICRA), 2023.
