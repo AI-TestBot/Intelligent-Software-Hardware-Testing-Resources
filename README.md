@@ -153,7 +153,7 @@ arXiv:2405.00892, 2024.
 *J Collins, J McVicar, D Wedlock, R Brown, D Howard, J Leitner.*<br>
 IEEE Robotics and Automation Letters, 2019.
 
-**GRASPA 1.0: GRASPA is a robot arm gras** performance benchmark.**<br>
+**GRASPA 1.0: GRASPA is a robot arm graSping performance benchmark.**<br>
 *F Bottarel, G Vezzani, U Pattacini, L Natale.*<br>
 IEEE Robotics and Automation Letters, 2020.
 
