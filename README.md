@@ -143,20 +143,3 @@ IEEE Robotics and Automation Letters, 2020.
 **ARMBench: An object-centric benchmark dataset for robotic manipulation.**<br>
 *C Mitash, F Wang, S Lu, V Terhuja, T Garaas, F Polido, M Nambi.*<br>
 2023 IEEE International Conference on Robotics and Automation (ICRA), 2023.
-
-## Embedded AI Systems Testing
-
-**Benchmarking tinyml systems: Challenges and direction.**<br>
-*CR Banbury, VJ Reddi, M Lam, W Fu, A Fazel, et al.*<br>
-arXiv, 2020.
-[[ArXiv](https://arxiv.org/pdf/2003.04821)]
-
-**On-Device Domain Learning for Keyword Spotting on Low-Power Extreme Edge Embedded Systems.**<br>
-*C Cioflan, L Cavigelli, M Rusci, M de Prado, L Benini.*<br>
-arXiv:2403.10549, 2024.
-[[ArXiv](https://arxiv.org/pdf/2403.10549)]
-
-**Wake Vision: A Large-scale, Diverse Dataset and Benchmark Suite for TinyML Person Detection.**<br>
-*C Banbury, E Njor, M Stewart, P Warden, M Kudlur, N Jeffries, X Fafoutis, VJ Reddi.*<br>
-arXiv:2405.00892, 2024.
-[[ArXiv](https://arxiv.org/pdf/2405.00892)]
